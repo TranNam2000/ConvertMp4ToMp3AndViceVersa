@@ -3,4 +3,13 @@
     <string name="do_you_want_to_exit">Do you want to exit ?</string>
     <string name="cancel">Cancel</string>
     <string name="confirm">Confirm</string>
+    <string name="title_convert_video">Convert\nVideo</string>
+    <string name="title_cut_video">Cut\nVideo</string>
+    <string name="title_video_to_mp3">Video to\nMp3</string>
+    <string name="title_compress_video">Compress\nVideo</string>
+    <string name="title_mp3_to_video">Mp3 to\nVideo</string>
+    <string name="title_video_crop">Video Crop</string>
+    <string name="title_my_project">My Project</string>
+    <string name="title_view_all">View All</string>
+    <string name="title_video">Video</string>
 </resources>

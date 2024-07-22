@@ -3,7 +3,7 @@ package com.convert.convertmp4tomp3andviceversa.base
 import android.content.Context
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.smartwavettn.horoscope.base.Repository
+import com.convert.convertmp4tomp3andviceversa.base.base.Repository
 
 abstract class BaseViewModel() : ViewModel() {
     val isLoading: MutableLiveData<Boolean> = MutableLiveData(false)

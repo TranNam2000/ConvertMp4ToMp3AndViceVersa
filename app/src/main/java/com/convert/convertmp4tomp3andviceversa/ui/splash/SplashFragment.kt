@@ -1,4 +1,4 @@
-package com.convert.convertmp4tomp3andviceversa.splash
+package com.convert.convertmp4tomp3andviceversa.ui.splash
 
 import android.os.Handler
 import android.os.Looper
@@ -6,7 +6,7 @@ import android.view.LayoutInflater
 import androidx.fragment.app.viewModels
 import com.convert.convertmp4tomp3andviceversa.base.BaseFragmentWithBinding
 import com.convert.convertmp4tomp3andviceversa.databinding.FragmentSplashBinding
-import com.convert.convertmp4tomp3andviceversa.home.HomeFragment
+import com.convert.convertmp4tomp3andviceversa.ui.home.HomeFragment
 
 class SplashFragment : BaseFragmentWithBinding<FragmentSplashBinding>() {
 

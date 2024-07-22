@@ -1,4 +1,4 @@
-package com.convert.convertmp4tomp3andviceversa.splash
+package com.convert.convertmp4tomp3andviceversa.ui.splash
 
 import androidx.lifecycle.ViewModel
 

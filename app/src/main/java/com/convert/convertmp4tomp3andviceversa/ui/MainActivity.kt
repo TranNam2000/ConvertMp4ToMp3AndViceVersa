@@ -1,10 +1,8 @@
-package com.convert.convertmp4tomp3andviceversa
+package com.convert.convertmp4tomp3andviceversa.ui
 
-import android.os.Bundle
 import android.view.LayoutInflater
-import androidx.appcompat.app.AppCompatActivity
 import com.convert.convertmp4tomp3andviceversa.databinding.ActivityMainBinding
-import com.convert.convertmp4tomp3andviceversa.splash.SplashFragment
+import com.convert.convertmp4tomp3andviceversa.ui.splash.SplashFragment
 import com.smartwavettn.horoscope.base.BaseActivity
 
 class MainActivity : BaseActivity<ActivityMainBinding>() {
